@@ -1,0 +1,9 @@
+Estamos en la segunda guerra mundial y usted ha sido
+seleccionado como mensajero para entregar un texto donde con las órdenes para la
+estrategia del combate decisivo. Como debe pasar por una zona extremadamente
+peligrosa su misión consiste en crear un programa que codifique el mensaje antes de
+imprimirlo para que el mensaje no pueda ser leído en caso de que este sea robado. Una
+vez el mensaje llegue a su destino este debe ser decodificado para obtener de nuevo el
+mensaje original. En ocasiones se ha descubierto que el enemigo conoce el patrón
+básico de codificación, por lo que se ha solicitado que el programa que codifique pueda
+recibir un documento en donde están las reglas de codificación de la siguiente manera:
