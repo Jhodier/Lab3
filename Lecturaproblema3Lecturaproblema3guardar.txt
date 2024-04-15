@@ -1,0 +1,2 @@
+El caracter 'h' se repite 0 veces en el texto.
+La secuencia "ola" se repite 1 veces en el texto.
